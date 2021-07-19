@@ -43,7 +43,7 @@ export const projectsData = [
 
     Used Technologies: Bootstrap, React.js, React-Redux, VS-CODE, react-router-dom.`,
     info2: '',
-    url: 'https://elegant-raman-ce9abf.netlify.app/',
+    url: 'https://dev-town.netlify.app/',
     repo: 'https://github.com/AhmedKamon/Dev-town.git', // if no repo, the button will not show up
   },
   {
